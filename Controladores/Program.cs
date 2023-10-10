@@ -51,7 +51,8 @@ namespace CajeroMenuC.Controladores
                         Console.WriteLine("[INFO] - Se ejecuta caso 5 ");
                         break;
                     default:
-
+                        
+                        //escribe lo que le pidamos
                         Console.WriteLine("[INFO] - La opcion seleccionada no coincide con ninguna.");
                         break;
                 }
